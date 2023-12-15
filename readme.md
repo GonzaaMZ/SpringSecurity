@@ -1,12 +1,12 @@
 
 
-# GUIA SPRING SECURITY 1
+# GUIA SPRING SECURITY 2
 
 ## TEMAS:
 
-- Endpoints protegidos
-- Sesiones
-- Basic Auth
+- JWT
+- ROLES
+- Encriptacion Password
 
 ## Estructura de archivos
 
